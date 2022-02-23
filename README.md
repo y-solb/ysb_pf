@@ -23,18 +23,15 @@
 
 <img src="./img/sc3.png" width="40%"></img>
 
-### 4. Map Screen
 
-<img src="./img/sc4.png" width="40%"></img>
-
-### 5. Web Screen
+### 4. Web Screen
 
 <img src="./img/sc5.png" width="40%"></img>
 
-### 6. Portfolio Screen
+### 5. Portfolio Screen
 
 <img src="./img/sc6.png" width="40%"></img>
 
-### 7. Bucket List Screen
+### 6. Bucket List Screen
 
 <img src="./img/sc7.png" width="40%"></img>
